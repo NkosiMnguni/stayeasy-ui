@@ -1,1 +1,1 @@
-# stayeasy-ui
+# stayeasy-ui-vue
